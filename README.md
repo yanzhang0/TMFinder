@@ -2,7 +2,7 @@ TMFinder
 ========
 
 This is the Temporal Motif Finder in https://github.com/lkovanen/TMFinder, with compling errors fixed.  
-Now it is compatible with  the lastest version of lcelib.
+Now it is compatible with  the lastest version of lcelib in https://github.com/CxAalto/lcelib/tree/master/containers.
 
 
 
