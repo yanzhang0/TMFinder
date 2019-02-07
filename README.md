@@ -24,6 +24,9 @@ After the compiling, make sure everything works by running the test script `test
 [bliss]: http://www.tcs.hut.fi/Software/bliss/ "bliss"
 
 
+Citation
+------------
+
 If you use this code in scientific work, please cite the above publication.
 
 > Lauri Kovanen, Márton Karsai, Kimmo Kaski, János Kertész, Jari
